@@ -2,10 +2,10 @@ apiVersion: core.oam.dev/v1beta1
 kind: Application
 metadata:
   annotations:
-    application.deploy.reform/commitHash: 9fb9426af50075bd5813b0673a99c87168f629ff
-    application.deploy.reform/deploymentNo: qc-test-a1-DP1
+    application.deploy.reform/commitHash: 0aeffe85d0d19a1fbef970aa0ec66f4589f027d3
+    application.deploy.reform/deploymentNo: qc-test-a1-DP2
     application.deploy.reform/name: qc-test-a1
-    application.deploy.reform/revision: 2023.03.1
+    application.deploy.reform/revision: 2023.03.2
     deploy.reform/domain: reslv.io
     deploy.reform/version: a463dd478a21f2dc41a8ad45a1a54019222c6b94
   creationTimestamp: null
